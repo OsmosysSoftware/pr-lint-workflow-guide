@@ -1,1 +1,1 @@
-Test Repository - for PR Title Validation
+Test Repository - for PR Title Validation.
